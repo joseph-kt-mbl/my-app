@@ -1,4 +1,4 @@
-#include "include/signeup_window.h"
+#include "signup_window.h"
 
 SignupWindow::SignupWindow() {
     // Create the window

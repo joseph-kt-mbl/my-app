@@ -1,7 +1,7 @@
 #include <gtk/gtk.h>
-#include "include/login_window.h"
-#include "include/signeup_window.h"
-#include "include/database.h"
+#include "login_window.h"
+#include "signup_window.h"
+#include "database.h"
 
 
 int main(int argc, char *argv[]) {
