@@ -1,4 +1,4 @@
-#include "include/database.h"
+#include "database.h"
 
 Database::Database() {
     connection = mysql_init(NULL);
