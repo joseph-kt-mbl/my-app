@@ -1,6 +1,5 @@
 #include <gtk/gtk.h>
 #include "login_window.h"
-#include "signup_window.h"
 #include "database.h"
 
 
